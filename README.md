@@ -40,9 +40,6 @@ It allows users to explore and understand how popular sorting algorithms work st
 
 ## 🚀 How to Run Locally
 
-
-## 🚀 How to Run Locally
-
 To run this project on your system:
 
 ```bash
